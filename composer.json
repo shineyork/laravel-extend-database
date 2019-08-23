@@ -1,0 +1,17 @@
+{
+    "name": "shineyork\/laravel-extend-database",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ShineYork",
+            "email": "shineyork@sixstaredu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ShineYork\\LaravelExtend\\Database\\": ""
+        }
+    }
+}
